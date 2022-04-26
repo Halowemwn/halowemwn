@@ -1,7 +1,7 @@
 ### Oiii, Meu nome é Gabriel 👋
 - 🌱 Iniciando na programação com e Html/Css.
-- 📫 Pretendendo estudar Javascript.
-- 🔭 Pretendo um dia ser experiente na área de Segurança da informação, Blockchain e IA.
+- 📫 Logo depois começar a estudar Javascript.
+- 🔭 Espero um dia ser experiente na área de Segurança da informação, Blockchain e IA.
 <!--
 **Halowemwn/halowemwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
