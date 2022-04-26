@@ -4,7 +4,7 @@
 - 📫 Logo depois pretendo começar a estudar Javascript.
 - 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
   </div>
-  <div align="left">
+  <div align="center">
   <br>
   <a href="https://github.com/halowemwn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=halowemwn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
