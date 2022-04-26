@@ -1,9 +1,10 @@
 <div align="center">
   <h1><strong>Oiii, Meu nome é Gabriel 👋</strong></h1>
-  <br><br>
-- 🌱 Iniciando com Html/Css.
-- 📫 Logo depois pretendo começar a estudar Javascript.
-- 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
+  <ul>
+<li> 🌱 Iniciando com Html/Css.
+<li> 📫 Logo depois pretendo começar a estudar Javascript.
+<li> 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
+  </ul>
   </div>
   <div align="center">
   <br>
