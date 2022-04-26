@@ -1,5 +1,6 @@
-### Oiii, Meu nome é Gabriel 👋
 <div align="center">
+  <strong>Oiii, Meu nome é Gabriel 👋</strong>
+  <br>
 - 🌱 Iniciando com Html/Css.
 - 📫 Logo depois pretendo começar a estudar Javascript.
 - 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
