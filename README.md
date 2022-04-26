@@ -4,6 +4,7 @@
 <li> 🌱 Iniciando com Html/Css.
 <li> 📫 Logo depois pretendo começar a estudar Javascript.
 <li> 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
+<li> 🎓Estudante Engenharia de Software na UNDB 1/8
   </ul>
   </div>
   <div align="center">
