@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>Oiii, Meu nome é Gabriel 👋</strong>
+  <h1><strong>Oiii, Meu nome é Gabriel 👋</strong></h1>
   <br><br>
 - 🌱 Iniciando com Html/Css.
 - 📫 Logo depois pretendo começar a estudar Javascript.
