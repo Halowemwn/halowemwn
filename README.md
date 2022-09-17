@@ -1,6 +1,5 @@
 <div align="center">
   <h1><strong>Oiii, Meu nome é Gabriel 👋</strong></h1>
-  <span>Halowemwn é meu nome de hacker</span>
   <lo style="list-style-type: none;">
 <li> 🌱 Iniciando com Python, Html/Css.
 <li> 📫 Pretendo Logo Me Especializar Também em Redes.
