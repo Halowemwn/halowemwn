@@ -2,7 +2,7 @@
   <h1><strong>Oiii, Meu nome é Gabriel 👋</strong></h1>
   <lo style="list-style-type: none;">
 <li> 🌱 Iniciando com Html/Css.
-<li> 📫 Logo depois pretendo começar a estudar Javascript.
+<li> 📫 Logo pretendo começar a me especializar em Javascript.
 <li> 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
 <li> 🎓Estudante Engenharia de Software na UNDB 1/8.
   </ul>
