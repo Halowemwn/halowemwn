@@ -3,9 +3,9 @@
   <lo style="list-style-type: none;">
 <li> 🌱 Iniciando com Python, Html/Css.
 <li> 📫 Pretendo Logo Me Especializar Também em Redes.
-<li> 🔭 Espero Ser Experiente Na área de Segurança da Informação, Blockchain e IA.
+<li> 🔭 Espero Ser Experiente Na Área de Segurança da Informação, Blockchain e IA.
 <li> 🎓 Estudante Engenharia de Software na UNDB 2/8.
-<li> 🌟 Quero Ser Destaque Da Minha Área
+<li> 🌟 Quero Ser Destaque Da Minha Área.
   </ul>
   </div>
   <div align="center">
