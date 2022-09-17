@@ -2,10 +2,9 @@
   <h1><strong>Oiii, Meu nome é Gabriel 👋</strong></h1>
   <lo style="list-style-type: none;">
 <li> 🌱 Iniciando com Html/Css.
-<li> 📫 Logo pretendo começar a me especializar em Javascript.
+<li> 📫 Logo pretendo começar a me especializar também em Redes.
 <li> 🔭 Espero um dia ser experiente na área de Segurança da Informação, Blockchain e IA.
-<li> 🎓 Estudante Engenharia de Software na UNDB 2/8.
-<li> 🌟 Quero ser um dos melhores da minha área
+<li> 🎓Estudante Engenharia de Software na UNDB 2/8.
   </ul>
   </div>
   <div align="center">
