@@ -5,7 +5,7 @@
 <li> 📫 Pretendo Logo Me Especializar Também em Redes.
 <li> 🔭 Espero Ser Experiente Na Área de Segurança da Informação, Blockchain e IA.
 <li> 🎓 Estudante Engenharia de Software na UNDB 2/8.
-<li> 🌟 Quero Ser Destaque Da Minha Área.
+<li> 🌟 Quero Ser Destaque Na Minha Área.
   </ul>
   </div>
   <div align="center">
